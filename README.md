@@ -1,2 +1,4 @@
 # hello-world
-Test HH
+Tak jsem tady poprve.
+
+Zatim dobry!
